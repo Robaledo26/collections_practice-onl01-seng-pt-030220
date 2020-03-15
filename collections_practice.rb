@@ -17,9 +17,11 @@ def swap_elements(array)
   return array
 end
 
-def reverse_array(array)
+
+def reverse_array (array)
   array.reverse
 end
+
 
 array find_a(array)
  array.map { |array| array[2] ="$"}
