@@ -22,4 +22,4 @@ def reverse_array(array)
 end
 
 array find_a(array)
- array.each 
+ array.map { |array| name[2] ="$"}
