@@ -21,3 +21,5 @@ def reverse_array(array)
   array.reverse
 end
 
+array find_a(array)
+ array.each 
