@@ -24,5 +24,5 @@ end
 
 
 array find_a(array)
- array.map { |array| array[2] ="$"}
+ array.each { |arr| arr[2] ="$"}
  end
