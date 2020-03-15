@@ -18,9 +18,17 @@ end
   end
 end
 
+
+
+
+
 def reverse.array(array)
   array.reverse
 end
+
+
+
+
 
 def kesha_maker(array)
   array.collect do |string|
